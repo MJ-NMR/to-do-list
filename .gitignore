@@ -1,2 +1,4 @@
-/node_modules
+node_modulesظ
 .env
+.gitignore
+public/
